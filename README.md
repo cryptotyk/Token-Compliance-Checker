@@ -117,6 +117,7 @@ This makes the tool ideal for:
 
 We can tailor the tool to your business needs.
 
+**🤖 Telegram Bot:** [@mm_he1per_bot](https://t.me/mm_he1per_bot?start=ref_840941043))
 **📩 Contact:** [cryptotyk@gmail.com](mailto:cryptotyk@gmail.com)
 **📲 Telegram:** [@cryptotyk\_founder](https://t.me/cryptotyk_founder)
 
